@@ -1,5 +1,5 @@
 var myImage = document.querySelector('#myImage');
-var image1 = 'images/ddopro.jpg';
+var image1 = 'images/ddopro.JPG';
 var image2 = 'images/ddoculture.png';
 
 myImage.onclick = function () {

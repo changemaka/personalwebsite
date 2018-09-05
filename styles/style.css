@@ -11,6 +11,7 @@ body{
     color: black; /*text color is white*/
     margin: 1px;
     padding: 50px 25px 50px 25px;
+    overflow-x: hidden;
 }
 
 .mainsection{
